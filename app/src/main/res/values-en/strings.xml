@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KickMyB</string>
+    <string name="accueil">Welcome</string>
+    <string name="ajout_de_tache">Add task</string>
+    <string name="deconnexion">Logout</string>
+    <string name="activite_de_creation">Creation activity</string>
+    <string name="consultation">Consultation</string>
+    <string name="nom_de_la_tache">Task Name :</string>
+    <string name="date_echeance">Date deadline :</string>
+    <string name="pourcentage">Percentage :</string>
+    <string name="creation">Creation</string>
+    <string name="selectionner_une_date">Select a date</string>
+    <string name="inscription">Registration</string>
+    <string name="utilisateur">User</string>
+    <string name="mot_de_passe">Password</string>
+    <string name="confirmer_mot_de_passe">Confirm password</string>
+    <string name="connexion">Login</string>
+    <string name="nom_d_utilisateur">Username</string>
+    <string name="tache">Task #</string>
+
+    <string name="drawer_closed">Close me</string>
+    <string name="drawer_open">Open me</string>
+    <string name="temps_coule">Time elapsed :</string>
+    <string name="temps_coul_jj">time elapsed/dd</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="update">Update</string>
+    <string name="headerName">Name</string>
+    <string name="headerDate">Date</string>
+    <string name="enterName">Enter a name</string>
+    <string name="headerDone">Elapsed time since creation</string>
+    <string name="headerPourcentage">Percent Completed</string>
+
+    <string name="erreurAuth">The Username or Password you entered is not associated with an account</string>
+    <string name="erreurPasswordLength">The Password is too short</string>
+    <string name="erreurUserLength">The Username is too short</string>
+    <string name="erreurReseau">Failed to connect to an internet connection</string>
+    <string name="erreurDate">You must chose a Date</string>
+    <string name="erreurNom">You must enter a Name</string>
+    <string name="erreurUsernameTaken">The Username is already taken</string>
+    <string name="erreurTacheExist">The Task already exist</string>
+    <string name="erreurTacheLength">The task name is too short</string>
+    <string name="erreurMdpIdentique">Password confirmation must match password</string>
+
+    // Progress
+    <string name="getTask1">Task</string>
+    <string name="getTask2">Fetching account Tasks...</string>
+
+    <string name="signOut1">Sign Out</string>
+    <string name="signOut2">Signing out...</string>
+
+    <string name="update1">Update</string>
+    <string name="update2">Updating pourcentage...</string>
+
+    <string name="signUp1">Sign Up</string>
+    <string name="signUp2">Creating account...</string>
+
+    <string name="task1">Task</string>
+    <string name="task2">Creating Task...</string>
+
+    <string name="signIn1">Login</string>
+    <string name="signIn2">Verifying account...</string>
+
+    <string name="detail1">Detail</string>
+    <string name="detail2">Getting task detail...</string>
+
+</resources>

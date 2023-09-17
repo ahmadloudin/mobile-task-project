@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KickMyB</string>
+    <string name="accueil">Accueil</string>
+    <string name="ajout_de_tache">Ajout de tâche</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="activite_de_creation">Activité de création</string>
+    <string name="consultation">Consultation</string>
+    <string name="nom_de_la_tache">Nom de la tâche :</string>
+    <string name="date_echeance">Date écheance :</string>
+    <string name="pourcentage">Pourcentage :</string>
+    <string name="creation">Création</string>
+    <string name="selectionner_une_date">Sélectionner une date</string>
+    <string name="inscription">Inscription</string>
+    <string name="utilisateur">Utilisateur</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="confirmer_mot_de_passe">Confirmer mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="nom_d_utilisateur">Nom d\'utilisateur</string>
+    <string name="tache">Tâche #</string>
+
+    <string name="drawer_closed">Ferme moi</string>
+    <string name="drawer_open">Ouvre moi</string>
+    <string name="temps_coule">Temps écoulé :</string>
+    <string name="temps_coul_jj">temps écoulé/jj</string>
+    <string name="dd_mm_yyyy">jj/mm/aaaa</string>
+    <string name="update">Mise à jour</string>
+    <string name="enterName">Entrez un nom</string>
+    <string name="headerName">Nom</string>
+    <string name="headerDate">Date</string>
+    <string name="headerDone">Temps écoulé depuis la création</string>
+    <string name="headerPourcentage">Pourcentage effectué</string>
+
+    <string name="erreurAuth">Le nom d\'utilisateur ou le mot de passe que vous avez entré n\'est pas associé à un compte</string>
+    <string name="erreurUserLength">Le nom d\'utilisateur est trop court</string>
+    <string name="erreurPasswordLength">Le mot de passe est trop court</string>
+    <string name="erreurReseau">Impossible de se connecter à une connexion Internet</string>
+    <string name="erreurDate">Vous devez choisir une date</string>
+    <string name="erreurNom">Vous devez entrer un nom</string>
+    <string name="erreurUsernameTaken">Le nom d\'utilisateur est déjà pris</string>
+    <string name="erreurTacheExist">La tâche existe déjà</string>
+    <string name="erreurTacheLength">Le nom de la tâche est trop courte</string>
+    <string name="erreurMdpIdentique">La confirmation du mot de passe doit correspondre au mot de passe</string>
+
+    // Progress
+    <string name="getTask1">Tâche</string>
+    <string name="getTask2">Récupération des tâches du compte...</string>
+
+    <string name="signOut1">Se déconnecter</string>
+    <string name="signOut2">Déconnecter...</string>
+
+    <string name="update1">Mise à jour</string>
+    <string name="update2">Mise à jour du pourcentage...</string>
+
+    <string name="signUp1">S\'inscrire</string>
+    <string name="signUp2">La création du compte...</string>
+
+    <string name="task1">Tâche</string>
+    <string name="task2">Création d\'une tâche...</string>
+
+    <string name="signIn1">Connexion</string>
+    <string name="signIn2">Vérification du compte...</string>
+
+    <string name="detail1">Détail</string>
+    <string name="detail2">Obtenir les détails de la tâche...</string>
+
+</resources>
